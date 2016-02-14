@@ -62,7 +62,7 @@ Table of contents
 /* ===================================
     Reset
 ====================================== */
-
+@import "compass/css3";
 
 .fot{
     background-color: #191919 !important;
@@ -74,6 +74,13 @@ Table of contents
     font-weight: 500 !important;
     font-size: 2.8em !important;
 }
+
+
+
+
+
+
+
 
 body{ font-family: 'Roboto', sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:13px; color:#626262; line-height:23px; letter-spacing: 0.02em }
 a, a:active{ color: #626262; text-decoration: none; }
@@ -330,7 +337,7 @@ i { color: #9a9a9a; margin:0}
 .bg-light-yellow {background:#f8f7f5 !important}
 .bg-dark-green{ background:#60a532 !important;}
 .bg-dark-blue { background:#1e2126 !important;}
-.bg-deep-blue2 {background:#131d43 !important; }
+.bg-deep-blue2 {background:#000 !important; }
 .bg-deep-blue3 {background:#1d2127 !important; }
 .bg-deep-blue-dark{background:#1d6cae !important;}
 .bg-violet { background:#6c407e !important}
@@ -356,7 +363,7 @@ i { color: #9a9a9a; margin:0}
 /* opacity */
 .opacity-light{ position: absolute; height: 100%; width: 100%; opacity: 0.5; z-index: 1; top:0; left: 0 }
 .opacity-medium{ position: absolute; height: 100%; width: 100%; opacity: 0.7; z-index: 1; top:0; left: 0 }
-.opacity-full{ position: absolute; height: 100%; width: 100%; opacity: 0.8; z-index: 1; top:0; left: 0 }
+.opacity-full{ position: absolute; height: 100%; width: 100%; opacity: 0.3; z-index: 1; top:0; left: 0 }
 .opacity-full-dark{ position: absolute; height: 100%; width: 100%; opacity: 0.9; z-index: 1; top:0; left: 0 }
 
 /* section height  */
