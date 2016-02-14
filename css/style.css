@@ -63,6 +63,18 @@ Table of contents
     Reset
 ====================================== */
 
+
+.fot{
+    background-color: #191919 !important;
+}
+
+.prox p{
+    color: #a5355b !important;
+    font-family: 'Work Sans', sans-serif !important;
+    font-weight: 500 !important;
+    font-size: 2.8em !important;
+}
+
 body{ font-family: 'Roboto', sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:13px; color:#626262; line-height:23px; letter-spacing: 0.02em }
 a, a:active{ color: #626262; text-decoration: none; }
 a:hover, a:focus{ color: #272727;  text-decoration: none}
