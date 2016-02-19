@@ -84,9 +84,11 @@ Table of contents
 .bgsocial{
      background-image: url(../images/f3.JPG) !important;
 }
+
+.clipm{
+    margin-top: 33px !important;
+    margin-bottom: 23px !important;
 }
-
-
 
 
 body{ font-family: 'Roboto', sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:13px; color:#626262; line-height:23px; letter-spacing: 0.02em }
