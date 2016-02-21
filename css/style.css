@@ -90,6 +90,11 @@ Table of contents
     margin-bottom: 23px !important;
 }
 
+.follows{
+    margin-bottom: 53px !important;
+    padding-bottom: 33px !important;
+}
+
 
 body{ font-family: 'Roboto', sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:13px; color:#626262; line-height:23px; letter-spacing: 0.02em }
 a, a:active{ color: #626262; text-decoration: none; }
