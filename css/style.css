@@ -123,13 +123,20 @@ Table of contents
 .ache{
     font-family: 'Poppins', sans-serif !important;
     font-weight: 300 !important;
-    font-size: 2em !important;
-    
+    font-size: 2.2em !important;
+
     line-height: 1.2em !important;  
 }
 
 .am{
     text-align: center !important;
+    
+}
+
+.desam{
+    font-family: 'Poppins', sans-serif !important;
+    font-weight: 300 !important;
+    font-size: 1.5em !important;
 }
 
 
