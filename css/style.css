@@ -113,14 +113,27 @@ Table of contents
 
 .txtintro p{
     font-family: 'Poppins', sans-serif !important;
-    font-weight: 300 !important;
+    font-weight: 400 !important;
     font-size: 2em !important;
     text-align: justify !important;
     line-height: 1.2em !important;
 }
 
 
-body{ font-family: 'Roboto', sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:13px; color:#626262; line-height:23px; letter-spacing: 0.02em }
+.ache{
+    font-family: 'Poppins', sans-serif !important;
+    font-weight: 300 !important;
+    font-size: 2em !important;
+    
+    line-height: 1.2em !important;  
+}
+
+.am{
+    text-align: center !important;
+}
+
+
+body{ font-family: 'Poppins', sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:13px; color:#626262; line-height:23px; letter-spacing: 0.02em }
 a, a:active{ color: #626262; text-decoration: none; }
 a:hover, a:focus{ color: #272727;  text-decoration: none}
 a:focus {outline: none !important; }
@@ -180,12 +193,12 @@ h1.page-title { margin:95px auto 0; width: 100%; }
 .text-large { font-size: 15px !important; line-height: 22px !important; }
 .text-extra-large { font-size: 2em !important; line-height: 27px !important;  }
 .title-small{ font-size:20px !important; line-height:30px !important;}
-.title-medium{ font-size:3.8em !important;  font-family: 'Poppins', sans-serif !important; color: #484747 !important; line-height:28px !important; font-weight: 500 !important ;}
+.title-medium{ font-size:3.8em !important;  font-family: 'Poppins', sans-serif !important; color: #484747 !important; line-height:28px !important; font-weight: 600 !important ;}
 .title-large{ font-size:28px !important; line-height:34px !important;}
 .title-extra-large{ font-size:35px !important; line-height:37px !important;}i
 .title-extra-large-2{ font-size:45px !important; line-height:45px !important;}
 .title-extra-large-3{ font-size:50px !important; line-height:50px !important;}
-.title-extra-large-4{ font-size:70px !important; line-height:70px !important;}
+.title-extra-large-4{ font-size: 2.9em !important; font-family: 'Poppins', sans-serif !important; line-height:70px !important; font-weight: 300 !important;}
 .title-extra-large-5{ font-size:80px !important; line-height:50px !important;}
 .title-big { font-size: 100px !important; line-height:100px !important;}
 .title-big2 { font-size: 125px !important; line-height:125px !important;}
@@ -217,9 +230,9 @@ h1.page-title { margin:95px auto 0; width: 100%; }
 .transparent-green-text{ color: rgba(0,255,151,.5) !important}
 .fast-green-text{ color: #85eea5 !important}
 .crimson-red-text { color: #e31d3b !important}
-.deep-green-text { color: #1acd7b !important; }
+.deep-green-text { color: #fff !important; }
 .deep-green-dark2-text{color: #6ad5a7 !important;}
-.deep-blue-text { color: #2283d4 !important; }
+.deep-blue-text { color: #484747 !important; }
 .turquoise-blue-text {color: #85d4c0 !important;}
 .deep-pink-dark-text { color:#e15276 !important}
 a.light-gray-text:hover { color: #7f7f7f !important}
@@ -267,7 +280,7 @@ a.light-gray-text:hover { color: #7f7f7f !important}
 .first-letter-round {background-color: #e6af2a; border-radius: 50%; color: #fff; font-size: 30px; padding: 15px;}
 
 /* font family */
-.alt-font {font-family: 'Montserrat', sans-serif !important;}
+.alt-font {font-family: 'Poppins', sans-serif !important;}
 .main-font {font-family: 'Roboto', sans-serif !important;}
 
 /* ===================================
