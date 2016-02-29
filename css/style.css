@@ -70,8 +70,9 @@ Table of contents
 
 .prox p{
     color: #fff !important;
-   font-family: 'Wire One', sans-serif !important;
-    line-height: 1.2em !important ;
+   font-family: 'Poppins', sans-serif !important;
+    line-height: 1em !important ;
+    font-weight: 500 !important;
     
     font-size: 4em !important;
 }
@@ -100,6 +101,23 @@ Table of contents
     margin-bottom: -140px !important;
 }
 
+
+.txtintro span {
+    font-family: 'Poppins', sans-serif !important;
+    font-weight: 400 !important;
+    font-size: 2.4em !important;
+    text-align: justify !important;
+    line-height: 1.2em !important;
+}
+
+
+.txtintro p{
+    font-family: 'Poppins', sans-serif !important;
+    font-weight: 300 !important;
+    font-size: 2em !important;
+    text-align: justify !important;
+    line-height: 1.2em !important;
+}
 
 
 body{ font-family: 'Roboto', sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:13px; color:#626262; line-height:23px; letter-spacing: 0.02em }
@@ -160,11 +178,11 @@ h1.page-title { margin:95px auto 0; width: 100%; }
 .text-small { font-size:11px !important; line-height:20px!important; display: inline-block !important}
 .text-medium{ font-size:14px !important; line-height:24px !important;}
 .text-large { font-size: 15px !important; line-height: 22px !important; }
-.text-extra-large { font-size: 18px !important; line-height: 27px !important;  }
+.text-extra-large { font-size: 2em !important; line-height: 27px !important;  }
 .title-small{ font-size:20px !important; line-height:30px !important;}
-.title-medium{ font-size:24px !important; line-height:28px !important;}
+.title-medium{ font-size:3.8em !important;  font-family: 'Poppins', sans-serif !important; color: #484747 !important; line-height:28px !important; font-weight: 500 !important ;}
 .title-large{ font-size:28px !important; line-height:34px !important;}
-.title-extra-large{ font-size:35px !important; line-height:37px !important;}
+.title-extra-large{ font-size:35px !important; line-height:37px !important;}i
 .title-extra-large-2{ font-size:45px !important; line-height:45px !important;}
 .title-extra-large-3{ font-size:50px !important; line-height:50px !important;}
 .title-extra-large-4{ font-size:70px !important; line-height:70px !important;}
