@@ -426,6 +426,7 @@ i { color: #9a9a9a; margin:0}
 .opacity-light{ position: absolute; height: 100%; width: 100%; opacity: 0.5; z-index: 1; top:0; left: 0 }
 .opacity-medium{ position: absolute; height: 100%; width: 100%; opacity: 0.5; z-index: 1; top:0; left: 0 }
 .opacity-full{ position: absolute; height: 100%; width: 100%; opacity: 0.79; z-index: 1; top:0; left: 0 }
+.opacity-fulll{ position: absolute; height: 100%; width: 100%; opacity: 0.5; z-index: 1; top:0; left: 0 }
 .opacity-full-dark{ position: absolute; height: 100%; width: 100%; opacity: 0.9; z-index: 1; top:0; left: 0 }
 
 /* section height  */
