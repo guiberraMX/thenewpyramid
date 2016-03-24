@@ -139,6 +139,10 @@ Table of contents
     font-size: 1.5em !important;
 }
 
+.desam p{
+    font-size: 0.9em !important;
+}
+
 .desam p strong{
     font-size: 1em !important;
     font-weight: 400 !important;
